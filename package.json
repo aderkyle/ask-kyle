@@ -1,0 +1,8 @@
+{
+  "name": "ask-kyle",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ask Kyle — an AI that reflects how Kyle Ramos thinks.",
+  "engines": { "node": ">=18" }
+}
